@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryan Campbell!!!!"
+title                    : "Ryan Campbell"
 title_separator          : "-"
 name                     : &name "Ryan Campbell"
 description              : &description "personal description"
@@ -81,12 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Campbell"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Montreal, QC"
-  employer         : "Desjardins Groupe Assurance Générale"
+  avatar           : "profile.jpg"
+  bio              : "Data Science Researcher at Desjardins Groupe Assurance Générale. Recent M.Sc. Graduate in Mathematics and Statistics at McGill University."
+  location         : "Montréal, Québec"
   googlescholar    : "https://scholar.google.com/citations?user=xI10ohkAAAAJ&hl=en"
-  email            : "ryan.campbell2[at]mail[dot]mcgill[dot]ca"
+  email            : "ryan.campbell2@mail.mcgill.ca"
   researchgate     : "https://www.researchgate.net/profile/Ryan_Campbell23"
   github           : "ryancampbell514"
 
