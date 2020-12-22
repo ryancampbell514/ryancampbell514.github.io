@@ -19,10 +19,9 @@ author_profile: true
 {% for post in site.publications reversed  %}
   {% if post.type == "preprint" %}
 
-
-  <ul>
+  #<ul>
   {% include archive-single.html %}  #{% include publication-item.html %}
-  </ul>
+  #</ul>
 
   {% endif %}
 {% endfor %}
