@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Hello...
+You'll find a copy of my CV in PDF format [here](ryancampbell514.github.io/files/academiccv.pdf){:target="_blank"}.
