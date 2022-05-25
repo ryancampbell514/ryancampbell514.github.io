@@ -19,6 +19,11 @@ keywords:
     <div class="row-fluid">
         <div class="span5">
             Ryan Campbell<br/>
+            Department of Mathematics and Statistics<br/>
+            Lancaster University<br/>
+            Fylde Ave., Bailrigg, Lancaster<br/>
+            LA1 4YR<br/>
+            <br/>
             Email: r [dot] campbell3 [at] lancaster [dot] ac [dot] uk<br/>
         </div>
 
@@ -33,8 +38,9 @@ keywords:
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/ryancampbell514">GitHub</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf" target="_blank">CV</a></li>
+          <li><a href="https://scholar.google.com/citations?user=xI10ohkAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
+          <li><a href="https://github.com/ryancampbell514" target="_blank">GitHub</a></li>
       </ul>
   </div>
 </div>
