@@ -11,6 +11,8 @@ Previously, I completed my undergraduate and master's degrees at [McGill Univers
 
 Between my master's and PhD, I had a brief stint as a data science researcher at [Desjardins General Insurance Group](https://www.desjardinsgeneralinsurance.com/){:target="_blank"}.
 
+When I'm not working, I'm either fell/trail running or I'm at a Preston North End match.
+
 ---
 
 
