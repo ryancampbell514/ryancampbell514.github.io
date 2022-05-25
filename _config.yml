@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Blue Ham
+title : Ryan Campbell
 author :
-  name : Marisa Carlos
-  email : mbc96@cornell.edu
-  github : mbcarlos
-  twitter : MarisaBriCarlos
+  name : Ryan Campbell
+  email : r [dot] campbell3 [at] lancaster [dot] ac [dot] uk
+  github : ryancampbell514
+  # twitter : MarisaBriCarlos
 
 production_url : http://marisabriana.github.io
 
