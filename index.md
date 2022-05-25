@@ -5,10 +5,11 @@ description: PhD student at Lancaster University.
 keywords: 
 ---
 
-#Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I'm a PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/){:target="_blank"}, where I study the theory of multivarate extremes under the supervision of [Jennifer Wadsworth](https://www.lancaster.ac.uk/~wadswojl/){:target="_blank"}.
 
-#[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+Previously, I completed my undergraduate and master's degrees at [McGill University](https://www.mcgill.ca/mathstat/){:target="_blank"} in my hometown of Montreal, Quebec. My master's research work sought to intrduce rigorous mthematical concepts to macine learning under the supervision of [Adam Oberman](https://www.adamoberman.net/){:target="_blank"}.
 
+Between my master's and PhD, I had a brief stint as a data science researcher at [Desjardins General Insurance Group](https://www.desjardinsgeneralinsurance.com/){:target="_blank"}.
 
 ---
 
