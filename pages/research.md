@@ -5,6 +5,8 @@ description: Blue Ham's research
 ---
 
 
++ **September-December 2022:** Visiting researcher in multivariate extremes at Colorado State University under the supervision of [Dan Cooley](https://www.stat.colostate.edu/~cooleyd/){:target="_blank"}. 
++ **September 2022:** Submitted an article entitled *Statistical inference for multivariate extremes via a geometric approach* to a top journal. The main author of this paper was Jennifer L. Wadsworth, my PhD supervisor. My main contributions came in Sections 3 and 6. Link to preprint [here](https://arxiv.org/abs/2208.14951){:target="_blank"}.
 
 <!-- 
 #### <u>The effects of increased eye contact on feeding portions</u>

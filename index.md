@@ -5,13 +5,13 @@ description: PhD student at Lancaster University.
 keywords: 
 ---
 
-I'm a PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/){:target="_blank"}, where I study the theory of multivarate extremes under the supervision of [Jennifer Wadsworth](https://www.lancaster.ac.uk/~wadswojl/){:target="_blank"}.
+I'm a PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/){:target="_blank"}, where I study the theory of multivarate extremes under the supervision of [Jennifer Wadsworth](https://www.lancaster.ac.uk/~wadswojl/){:target="_blank"}. From September to December 2022, I'll be a visiting PhD student at Colorado State University under the supervision of [Dan Cooley](https://www.stat.colostate.edu/~cooleyd/){:target="_blank"}, where I will continue studying multivariate extremes.
 
 Previously, I completed my undergraduate and master's degrees at [McGill University](https://www.mcgill.ca/mathstat/){:target="_blank"} in my hometown of Montreal, Quebec. My master's research was done under the supervision of [Adam Oberman](https://www.adamoberman.net/){:target="_blank"}.
 
 Between my master's and PhD, I had a brief stint as a data science researcher at [Desjardins General Insurance Group](https://www.desjardinsgeneralinsurance.com/){:target="_blank"}.
 
-When I'm not working, I'm either fell/trail running or I'm at a Preston North End match.
+When I'm not working, I'm either fell/trail running or at a Preston North End match.
 
 ---
 
