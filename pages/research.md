@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Ryan Campbell's research
 ---
 
 **Research Interests:** Multivariate extreme value theory and its applications, dependence modeling, estimation of quantiles.
