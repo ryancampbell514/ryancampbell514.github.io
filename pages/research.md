@@ -9,8 +9,11 @@ description: Ryan Campbell's research
 
 **Updates:**
 
++ **October 2023:** Submitted an article entitled *Statistical inference for radially-stable generalized Pareto distributions and return level-sets in geometric extremes* to a top journal. The main author is [Ioannis Papastathopoulos](https://www.maths.ed.ac.uk/~ipapasta/){:target="_blank"}, with co-authors [Lambert de Monte](https://scholar.google.com/citations?user=HMIbGeoAAAAJ&hl=fr){:target="_blank"} and [Håvard Rue](https://www.kaust.edu.sa/en/study/faculty/haavard-rue){:target="_blank"}. My main contributions came in Sections 4 and the derivations in Supplementary Material A. Link to preprint [here](https://arxiv.org/abs/2310.06130){:target="_blank"}. 
++ **Septembet 2023:** Presented at a contributed sesson at the *STOR-i Extremes Workshop (STEW)* at Lancaster University in Lancaster, UK entitled "Modelling extremal dependence of a 3-dimensional oceanographic dataset via a semi-parametric geometric approach". Slides forthcoming.
++ **June 2023:** Presented at a contributed sesson at the *Extreme Value Analysis (EVA)* conference at Bocconi University in Milan, Italy entitled "A geometric approach for modelling negative asymptotic dependence". Slides forthcoming.
 + **September-December 2022:** Visiting researcher in multivariate extremes at Colorado State University under the supervision of [Dan Cooley](https://www.stat.colostate.edu/~cooleyd/){:target="_blank"} and [Ben Shaby](https://www.stat.colostate.edu/~bshaby/){:target="_blank"}. 
-+ **September 2022:** Submitted an article entitled *Statistical inference for multivariate extremes via a geometric approach* to a top journal. The main author of this paper was Jennifer L. Wadsworth, my PhD supervisor. My main contributions came in Sections 3 and 6. Link to preprint [here](https://arxiv.org/abs/2208.14951){:target="_blank"}.
++ **September 2022:** Submitted an article entitled *Statistical inference for multivariate extremes via a geometric approach* to a top journal. The main author of this paper was Jennifer L. Wadsworth, my PhD supervisor. My main contributions came in Sections 3 and 6. Link to preprint [here](https://arxiv.org/abs/2208.14951){:target="_blank"}. I presented a seminar based on this work at HEC Montréal on 29 September 2023. Slides forthcoming.
 
 <!-- 
 #### <u>The effects of increased eye contact on feeding portions</u>
