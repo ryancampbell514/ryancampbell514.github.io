@@ -11,7 +11,7 @@ Previously, I completed my undergraduate and master's degrees at [McGill Univers
 
 Between my master's and PhD, I had a brief stint as a data science researcher at [Desjardins General Insurance Group](https://www.desjardinsgeneralinsurance.com/){:target="_blank"}.
 
-When I'm not working, I'm either fell/trail running with [Lonsdale Fell Runners](https://lonsdalefellrunners.co.uk/){:target="_blank"} or at a [Preston North End](https://www.pnefc.net/){:target="_blank"} match.
+When I'm not working, I'm either fell/trail running with [Lonsdale Fell Runners](https://lonsdalefellrunners.co.uk/){:target="_blank"} or at a [Preston North End](https://www.pnefc.net/){:target="_blank"} match. I also play guitar in the [Lancaster University Folk Society](https://wp.lancs.ac.uk/folksoc/){:target="_blank"}.
 
 ---
 
