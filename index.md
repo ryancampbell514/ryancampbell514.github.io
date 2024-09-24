@@ -5,6 +5,8 @@ description: PhD student at Lancaster University.
 keywords: 
 ---
 
+<img src="../assets/d3_pollution_data_pwlgauge.gif" alt="">
+
 I'm a PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/){:target="_blank"}, where I study the theory of multivarate extremes and its applications under the supervision of [Jennifer Wadsworth](https://www.lancaster.ac.uk/~wadswojl/){:target="_blank"}.
 
 Previously, I completed my undergraduate and master's degrees at [McGill University](https://www.mcgill.ca/mathstat/){:target="_blank"} in my hometown of Montreal, Quebec. My master's research was done under the supervision of [Adam Oberman](https://www.adamoberman.net/){:target="_blank"}.
