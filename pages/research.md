@@ -4,6 +4,8 @@ title: Research
 description: Ryan Campbell's research
 ---
 
+<img src="../assets/d3_pollution_data_pwlgauge.gif" alt="" width: 70% height: auto>
+
 **Research Interests:** Multivariate extreme value theory and its applications, dependence modeling, estimation of quantiles.
 
 
