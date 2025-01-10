@@ -12,6 +12,7 @@ Previously, I completed my undergraduate and master's degrees at [McGill Univers
 Between my master's and PhD, I had a brief stint as a data science researcher at [Desjardins General Insurance Group](https://www.desjardinsgeneralinsurance.com/){:target="_blank"}.
 
 When I'm not working, I'm either fell running with [Lonsdale Fell Runners](https://lonsdalefellrunners.co.uk/){:target="_blank"} (member #2851 of the Bob Graham 24 Hour Club!) or at a [Preston North End](https://www.pnefc.net/){:target="_blank"} match.
+
 ---
 
 
