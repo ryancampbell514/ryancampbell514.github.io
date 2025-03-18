@@ -6,7 +6,7 @@ description: Ryan Campbell's research
 
 <img src="../assets/d3_pollution_data_pwlgauge.gif" alt="">
 
-**Research Interests:** Multivariate extreme value theory and its applications, dependence modeling, estimation of quantiles.
+**Research Interests:** Multivariate extreme value theory and its applications, dependence modelling, machine learning.
 
 
 **Updates:**
