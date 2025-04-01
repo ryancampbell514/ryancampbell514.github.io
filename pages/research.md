@@ -8,6 +8,7 @@ description: Ryan Campbell's research
 
 **Research Interests:** Multivariate extreme value theory and its applications, dependence modelling, machine learning.
 
+*Above GIF: Piecewise-linear limit set fitted on a three-dimensional air pollution dataset.*
 
 **Updates:**
 

@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Ryan Campbell
-description: PhD student at Lancaster University. 
+description: PhD student, Lancaster University. 
 keywords: 
 ---
 
