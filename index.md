@@ -17,7 +17,7 @@ When I'm not working, I'm either fell running with [Lonsdale Fell Runners](https
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
