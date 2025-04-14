@@ -22,7 +22,7 @@ When I'm not working, I'm either fell running with [Lonsdale Fell Runners](https
     <div class="row-fluid">
         <div class="span5">
             Ryan Campbell<br/>
-            Department of Mathematics and Statistics<br/>
+            School of Mathematical Sciences<br/>
             Lancaster University<br/>
             Fylde Ave., Bailrigg, Lancaster<br/>
             LA1 4YR<br/>
