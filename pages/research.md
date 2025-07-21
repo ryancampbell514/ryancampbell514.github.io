@@ -12,7 +12,7 @@ description: Ryan Campbell's research
 
 **Updates:**
 
-+ **December 2024:** Submitted a manuscript entitled *Piecewise-linear modeling of multivariate geometric extremes* to an academic journal, where a flexible piecewise-linear approach is introduced to estimate limit sets for multivqariate extremal inference. Link to preprint [here](https://arxiv.org/abs/2412.05195){:target="_blank"}.
++ **December 2024:** Submitted a manuscript entitled *Piecewise-linear modeling of multivariate geometric extremes* to an academic journal, where a flexible piecewise-linear approach is introduced to estimate limit sets for multivqariate extremal inference. Link to preprint [here](https://arxiv.org/abs/2412.05195){:target="_blank"}. Slides presented at EVA 2025 <a href="{{ BASE_PATH }}/assets/Campbell_EVA_backup.pdf" target="_blank">here</a>.
 + **November 2024:** Invited speaker at statistic seminars at INRIA Grenoble, EPFL, Université Lyon 1, and INRAE Avignon, where I discussed the geometric approach to multivariate extremal inference.
 + **September 2024:** Invited by Michaël Lalancette to present at UQÀM's [statistics seminar](https://statqam.uqam.ca/2024-2025/){:target="_blank"}, where I discussed new developpments in geometric multivariate extremal inference. Slides <a href="{{ BASE_PATH }}/assets/UQAM_talk-compressed.pdf" target="_blank">here</a>
 + **December 2023:** Contributed to a manuscript outlining Lancaster University's methodology for the [Data Challenge](https://dec.unibocconi.eu/sites/default/files/media/files/EVA_Challenge_2023.pdf?VersionId=jVaaU_QBDn6InRFUx5fg6_bcVfz1eKWr){:target="_blank"} for the EVA conference. Link to preprint [here](https://arxiv.org/abs/2312.09825){:target="_blank"}.
