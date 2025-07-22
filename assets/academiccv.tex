@@ -1,0 +1,346 @@
+\documentclass[11pt,]{scrartcl}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\usepackage[czech]{babel}
+\usepackage[ddmmyyyy]{datetime}
+\renewcommand{\dateseparator}{--}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\PassOptionsToPackage{hyphens}{url} % url is loaded by hyperref
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage[margin=1in]{geometry}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+%\defaultfontfeatures{Scale=MatchLowercase,Ligatures={TeX}}
+%\setmainfont{Liberation Serif}
+%\setsansfont{Liberation Serif}
+%\setmonofont[SmallCapsFont={Liberation Serif}]{Liberation Serif}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{xcolor}
+\definecolor{cvlinkcolor}{RGB}{6,125,233}
+\hypersetup{colorlinks,linkcolor=cvlinkcolor,citecolor=cvlinkcolor,urlcolor=cvlinkcolor,bookmarksnumbered,bookmarks=false,pdfinfo={Title={Curriculum Vitae},Author={Lighton Phiri},Creator={Lighton Phiri},Subject={Curriculum Vitae},Keywords={Curriculum Vitae},CreationDate={D:20150513232724}}}
+\renewcommand\labelenumi{[\theenumi]}
+
+%\date{\today}
+\usepackage{fancyhdr}
+    \fancyhf{}
+    %\usepackage{afterpage}
+    %\chead{\textbf{Campbell, Ryan}}
+    %\cfoot{\textbf{Description du projet de recherche}}
+    %\rfoot{\thepage}
+    %\pagestyle{fancy}
+    %\renewcommand{\headrulewidth}{0pt}
+    \fancypagestyle{firstpage}
+	{
+	   \fancyhf{}
+	   \rhead{\small{Last updated: \today}}
+	   \pagestyle{fancy}
+    	   %\renewcommand{\headrulewidth}{0pt}
+	   %\fancyfoot[C]{\textbf{Description du projet de recherche -- Références}}
+	   %\rfoot{\thepage}
+	}
+
+\begin{document}
+
+\thispagestyle{firstpage}
+
+\begin{table}[h]
+%%%\centering
+{\def\arraystretch{1.1}\tabcolsep=0pt
+\begin{tabular}{p{0.55\linewidth}p{0.05\linewidth}p{0.40\linewidth}}
+
+  \multirow{1}{*}{\LARGE \textbf{Ryan Campbell}} &  &  \\
+  
+  & & \\
+  
+  School of Mathemtical Sciences & \multicolumn{1}{l}{Webpage:\;\;} & \multicolumn{1}{l}{www.ryanstats.com} \\
+  
+  Lancaster University & \multicolumn{1}{l}{Email:\;\;} &\multicolumn{1}{l}{r.campbell3@lancaster.ac.uk} \\
+  
+  Fylde Ave., Bailrigg, Lancaster & & \\ %\multicolumn{1}{l}{Phone:\;\;} & \multicolumn{1}{l}{$+$1 (514) 712 8670} \\
+  
+  LA1 4YR &  &  \\
+
+\end{tabular}%
+}
+\end{table}
+
+\subsection{Research Interests}\label{interests}
+{Multivariate extreme value theory and its applications, dependence modelling, machine learning.}
+
+\subsection{Education}\label{education}
+
+\begin{table}[h]
+%%%\centering
+{\def\arraystretch{1.1}\tabcolsep=0pt
+\begin{tabular}{p{0.13\linewidth}p{0.87\linewidth}}
+
+  {2021--2025} & PhD Statistics, Lancaster University \\
+  & Thesis: A geometric interpretation of multivariate extreme value analysis\\
+  & Supervisor: Jennifer L. Wadsworth \\ \\
+  %& \textit{$^{\ast}$Sept. -- Dec. 2022: Visiting PhD researcher under the supervision of Daniel Cooley at Colorado State University.}\\
+  
+  {2019--2020}  & MSc Mathematics \& Statistics, McGill University \\
+  & Thesis: Deterministic Gaussian averaged neural networks \\
+  & Supervisor: Adam Oberman \\  \\
+  %& Cumulative GPA: 4.0 (4.0 scale)\\
+
+  2015--2018 & BSc Mathematics, McGill University \\
+  & Project: Semiparametric modelling of max-stable processes using Kendall's tau \\
+  & Supervisor: Johanna Ne\v{s}lehov\'{a} \\
+  %\\
+  %& Cumulative GPA: 3.82 (4.0 scale)\\
+
+\end{tabular}%
+}
+\end{table}
+
+
+\subsection{Publications}
+%Google Scholar: \url{https://scholar.google.com/citations?hl=en&user=xI10ohkAAAAJ}
+\begin{enumerate}
+  %%%%%\leftskip-0.25in % for bullets
+  \leftskip-0.13in % for numbers
+  \item L.M. André, \textbf{R. Campbell}, E. D'Arcy, A. Farrell, D. Healy, L. Kakampakou, C. Murphy, C.J.R. Murphy-Barltrop, M. Speers. Extreme value methods for estimating rare events in Utopia. \emph{Extremes}, 1--23, 2024.
+  \item J. L. Wadsworth and \textbf{R. Campbell}. Statistical inference for multivariate extremes via a geometric approach. \emph{Journal of the Royal Statistical Society Series B: Statistical Methodology}, (86)5: 1243--1265, 2024.
+\end{enumerate}
+\subsubsection{Preprints}\label{preprints}
+\begin{enumerate}
+  %%%%%\leftskip-0.25in % for bullets
+  \leftskip-0.13in % for numbers
+  \item \textbf{R. Campbell} and J. L. Wadsworth. Piecewise-linear modeling of multivariate geometric extremes. \emph{arXiv:2412.05195}, 2024.
+  \item I. Papastathopoulos, L. de Monte, \textbf{R. Campbell}, H. Rue. Statistical inference for radially-stable generalized Pareto distributions and return level-sets in geometric extremes. \emph{arXiv:2310.06130}, 2023.
+  \item \textbf{R. Campbell}, C. Finlay, and A. M. Oberman. Adversarial Boot Camp: label free certified robustness in one epoch. \emph{arXiv:2010.02508}, 2020.
+  \item \textbf{R. Campbell}, C. Finlay, and A. M. Oberman. Deterministic Gaussian
+averaged neural networks. \emph{arXiv:2006.06061}, 2020.
+\end{enumerate}
+
+
+\subsection{Presentations}
+\begin{table}[h]
+%%%\centering
+{\def\arraystretch{1.1}\tabcolsep=0pt
+\begin{tabular}{p{0.15\linewidth}p{0.85\linewidth}}
+{June 2025} & $14^{\text{th}}$ International Conference on Extreme Value Analysis
+\\
+& Title: Geometric spatio-temporal extremes\\
+& \textit{with Kristina Grolmusova, Lydia Kakampakou, and Jeongjin Lee.}\\
+  & Location: University of North Carolina, Chapel Hill, NC, USA\\ \\
+{June 2025} & $14^{\text{th}}$ International Conference on Extreme Value Analysis
+\\
+& Title: Piecewise-linear modeling of multivariate geometric extremes\\
+  & Location: University of North Carolina, Chapel Hill, NC, USA\\ \\
+{Nov. 2024} & Various statistics seminars in France and Switzerland
+\\
+& Title: A geometric approach to
+multivariate extremal inference\\
+  & Locations: Inria Grenoble, Université de Genève, École Polytechnique Fédérale de Lausanne, Université Claude Bernard Lyon 1, INRAE Avignon.\\ \\
+{Sept. 2024} & UQÀM Statistics Seminar
+\\
+& Title: New developments for a geometric approach to
+multivariate extremal inference\\
+  & Location: UQÀM, Montr\'{e}al, QC, Canada\\ \\
+{Oct. 2023} & HEC Statistics Seminar
+\\
+& Title: Statistical inference for multivariate extremes via a geometric approach\\
+  & Location: HEC Montr\'{e}al, Montr\'{e}al, QC, Canada\\ \\
+
+  {Sept. 2023} & STOR-i Extremes Workshop (STEW)
+\\
+& Title: Modelling extremal dependence of a 3-dimensional oceanographic dataset via a semi-parametric geometric approach\\
+  & Location: Lancaster University, Lancaster, UK\\ \\
+
+  {June 2023} & $13^{\text{th}}$ International Conference on Extreme Value Analysis
+\\
+& Title: A geometric approach for modelling negative asymptotic dependence\\
+  & Location: Bocconi University, Milan, Italy\\
+
+\end{tabular}%
+}
+\end{table}
+
+\subsection{Teaching Assistant Positions}\label{teaching-assistant}
+\subsubsection{Lancaster University}
+\begin{table}[!h]
+%%%\centering
+{\def\arraystretch{1.1}\tabcolsep=0pt
+\begin{tabular}{p{0.20\linewidth}p{0.20\linewidth}p{0.60\linewidth}}
+  
+  Winter 2024 & MATH333 & Statistical Models (GLMs)\\
+  Winter 2024 & MATH113 & Convergence and Continuity\\
+  Winter 2023 & MATH140 & Statistics \\
+  Winter 2022 & MATH456/556 & Extreme Value Theory \\
+  Winter 2022 & MATH235 & Statistics II \\
+  
+  Fall 2021 & MATH330 & Likelihood Inference 
+\end{tabular}%
+}
+\end{table}
+\newpage
+\subsubsection{McGill University}
+\begin{table}[!h]
+%%%\centering
+{\def\arraystretch{1.1}\tabcolsep=0pt
+\begin{tabular}{p{0.20\linewidth}p{0.20\linewidth}p{0.60\linewidth}}
+
+  Fall 2020 & MATH208 & Intro. to Statistical Computing \\
+
+  Fall 2019 & MATH597 & Topics in Applied Mathematics: Mathematics of Machine Learning  \\
+  
+  Fall 2019 & MATH223 & Linear Algebra  \\
+\end{tabular}%
+}
+\end{table}
+
+\subsection{Employment}\label{professional-activities}
+\begin{itemize}
+  \leftskip-0.25in
+  \item \textbf{Data Science Intern}\\
+  %Project Description: Using mathematical, statistical, and machine learning concepts for spatially-robust house insurance modeling.\\
+  Desjardins General Insurance Group. L\'{e}vis, Qu\'{e}bec.\\
+  June--December 2020 (part-time), January--June 2021 (full-time)
+%  \item \textbf{Ninth Annual Industrial Problem Solving Workshop}\\
+%  Centre for Mathematical Research, University of Montreal\\
+%  Project Description: Using machine learning tools to automatically identify patterns and novel behaviours in the radio-frequency environment at the Dominion Radio Astrophysical Observatory\\
+%  Supervisor: Chris Budd (University of Bath), Seth Siegel (McGill University)\\
+%  19--23 August 2019
+%  \item \textbf{Undergraduate Summer Research}\\
+%  Department of Mathematics \& Statistics, McGill University.\\
+%  Project: Semiparametric modeling of max-stable processing using Kendall's tau rank correlation coefficient.\\
+%  Supervisor: Johanna Ne\v{s}lehov\'{a}\\
+%  May--September 2018 
+%  \item \textbf{Mathematics Tutor}\\
+%  Private tutor for a Secondary 4 mathematics student.\\
+%  2016-2017 academic year
+%  \item \textbf{Manager, Lifeguard, Swimming Lessons Instructor, Diving Coach}\\
+%  Western Lachine Recreation Centre\\
+%  Summers 2010--2017
+
+\end{itemize}
+
+%\subsection{Completed Graduate-level Courses}\label{courses}
+%
+%Applied machine learning. Bayesian statistics. Computational intensive statistics. Generalized linear models. Linear regression \& analysis of variance. Mathematics of machine learning. Mathematical statistics. Nonparametric statistics. Numerical differential equations. Optimization. Statistical quality control. Stochastic processes. Time series analysis.
+
+\subsection{Awards and Funding}\label{selected-honours-and-awards}
+
+\begin{table}[!h]
+%%%\centering
+{\def\arraystretch{1.1}\tabcolsep=0pt
+\begin{tabular}{p{0.15\linewidth}p{0.6\linewidth}p{0.25\linewidth}}
+  2023--2025 & NSERC Postgraduate Scholarship-Doctoral &CA\$63,000\\
+  2023--2025 & FRQNT Doctoral Research Scholarship &CA\$25,334 \\
+  2021--2025 & EPSRC Mathematical Sciences studentship &\textsterling62,436 (minimum)\\
+  2025 & London Mathematical Society Early Career & \textsterling500 \\
+   & Researcher Travel Grant & \\
+  2025 & Institute of Mathematics Small Grant & \textsterling600\\
+  2025 & Graduate College \& Doctoral Academy  & \textsterling200\\
+  &Travel Grant (Lancaster University) & \\
+  2023 & Nick Smith Prize (Lancaster University) &\textsterling500\\
+
+  2020 & Mitacs internship at Desjardins &CA\$13,000	\\
+  
+  2019--2020 & Master's degree funding &CA\$20,500 \\
+
+  2019--2020 & McGill University Graduate Excellence Award &CA\$3,400\\
+  
+  2018 & %Dr. Kenneth Davis 
+  Science Undergraduate Research Award &CA\$6,500\\
+
+\end{tabular}%
+}
+\end{table}
+
+\subsection{Languages and Skills}\label{lang}
+
+\begin{itemize}
+  \leftskip-0.25in
+  \item Fluent in English and French.
+  \item Proficient in R, Python (incl. PyTorch), Matlab, LaTeX, Java, HTML, Linux
+
+\end{itemize}
+
+\subsection{Extracurricular Activities}\label{extracurriculars}
+\begin{itemize}
+  \leftskip-0.25in
+  \item \textbf{Treasurer}, Lancaster University Folk Society \\ Lancaster University\\2023--2025 academic years.
+  \item \textbf{VP Finance}, Graduate Student Association for Mathematics and Statistics (GSAMS)\\ McGill University\\2019--2020 academic year.
+  \item \textbf{Volunteer at the 2018 Statistical Society of Canada annual meeting}\\
+  Roles: Setting up audio-visual equipment for presentations and directing conference attendees to presentations.\\
+  Location: McGill University\\
+  3--6 June 2018
+
+\end{itemize}
+%
+%\subsection{References}\label{references}
+%\begin{enumerate}
+%	\leftskip-0.25in
+%	\item Prof. Adam Oberman\\
+%	Department of Mathematics \& Statistics \\
+%	McGill University \\
+%	{\href{mailto:oberman.adam@gmail.com}{oberman.adam@gmail.com}} \\
+%	(514) 398-3832 \\
+%	\item Prof. Johanna Ne\v{s}lehov\'{a}\\
+%	Department of Mathematics \& Statistics \\
+%	McGill University \\
+%	{\href{mailto:johanna.neslehova@mcgill.ca}{johanna.neslehova@mcgill.ca}} \\
+%	(514) 398-8854 \\
+%%	\item Prof. Russel Steele\\
+%%	Department of Mathematics \& Statistics \\
+%%	McGill University \\
+%%	{\href{mailto:russell.steele@mcgill.ca}{russell.steele@mcgill.ca}} \\
+%%	(514) 398-3837 \\
+%%	\item Prof. Masoud Ashgarian\\
+%%	Department of Mathematics \& Statistics \\
+%%	McGill University \\
+%%	{\href{mailto:masoud.asgharian2@mcgill.ca}{masoud.asgharian2@mcgill.ca}} \\
+%%	(514) 398-1461 \\
+%\end{enumerate}
+
+\end{document}
