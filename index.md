@@ -7,7 +7,7 @@ keywords:
 
 I'm a postoctoral researcher at Université Côte d'Azur in Nice, France.
 
-Previously, I had the great pleasure of doing my PhD under the supervision of [Jennifer Wadsworth](https://www.lancaster.ac.uk/~wadswojl/){:target="_blank"} at [Lancaster University](https://www.lancaster.ac.uk/maths/){:target="_blank"}, where I developped new methodology for multivarate extremal inference. Prior to this, I completed my undergraduate and master's degrees at [McGill University](https://www.mcgill.ca/mathstat/){:target="_blank"} in my hometown of Montreal, Quebec. My master's research was done under the supervision of [Adam Oberman](https://www.adamoberman.net/){:target="_blank"}. Between my master's and PhD, I had a brief stint as a data science researcher at [Desjardins General Insurance Group](https://www.desjardinsgeneralinsurance.com/){:target="_blank"}.
+Previously, I had the great pleasure of doing my PhD under the supervision of [Jennifer Wadsworth](https://www.lancaster.ac.uk/~wadswojl/){:target="_blank"} at [Lancaster University](https://www.lancaster.ac.uk/maths/){:target="_blank"}, where I helped developped new methodology for multivarate extremal inference. Prior to this, I completed my undergraduate and master's degrees at [McGill University](https://www.mcgill.ca/mathstat/){:target="_blank"} in my hometown of Montreal, Quebec. My master's research was done under the supervision of [Adam Oberman](https://www.adamoberman.net/){:target="_blank"}. Between my master's and PhD, I had a brief stint as a data science researcher at [Desjardins General Insurance Group](https://www.desjardinsgeneralinsurance.com/){:target="_blank"}.
 
 When I'm not working, you can find me running somewhere in the Alpes-Maritimes.
 
