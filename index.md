@@ -1,17 +1,15 @@
 ---
 layout: frontpage
 title: Ryan Campbell
-description: PhD student, Lancaster University. 
+description: Postdoctoral Researcher, Université Côte d'Azur 
 keywords: 
 ---
 
-I'm a PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/){:target="_blank"}, where I study the theory of multivarate extremes and its applications under the supervision of [Jennifer Wadsworth](https://www.lancaster.ac.uk/~wadswojl/){:target="_blank"}.
+I'm a postoctoral researcher at Université Côte d'Azur in Nice, France.
 
-Previously, I completed my undergraduate and master's degrees at [McGill University](https://www.mcgill.ca/mathstat/){:target="_blank"} in my hometown of Montreal, Quebec. My master's research was done under the supervision of [Adam Oberman](https://www.adamoberman.net/){:target="_blank"}.
+Previously, I had the great pleasure of doing my PhD under the supervision of [Jennifer Wadsworth](https://www.lancaster.ac.uk/~wadswojl/){:target="_blank"} at [Lancaster University](https://www.lancaster.ac.uk/maths/){:target="_blank"}, where I developped new methodology for multivarate extremal inference. Prior to this, I completed my undergraduate and master's degrees at [McGill University](https://www.mcgill.ca/mathstat/){:target="_blank"} in my hometown of Montreal, Quebec. My master's research was done under the supervision of [Adam Oberman](https://www.adamoberman.net/){:target="_blank"}. Between my master's and PhD, I had a brief stint as a data science researcher at [Desjardins General Insurance Group](https://www.desjardinsgeneralinsurance.com/){:target="_blank"}.
 
-Between my master's and PhD, I had a brief stint as a data science researcher at [Desjardins General Insurance Group](https://www.desjardinsgeneralinsurance.com/){:target="_blank"}.
-
-When I'm not working, I'm either fell running with [Lonsdale Fell Runners](https://lonsdalefellrunners.co.uk/){:target="_blank"} or at a [Preston North End](https://www.pnefc.net/){:target="_blank"} match.
+When I'm not working, you can find me running somewhere in the Alpes-Maritimes.
 
 ---
 
@@ -22,12 +20,11 @@ When I'm not working, I'm either fell running with [Lonsdale Fell Runners](https
     <div class="row-fluid">
         <div class="span5">
             Ryan Campbell<br/>
-            School of Mathematical Sciences<br/>
-            Lancaster University<br/>
-            Fylde Ave., Bailrigg, Lancaster<br/>
-            LA1 4YR<br/>
-            <br/>
-            Email: r [dot] campbell3 [at] lancaster [dot] ac [dot] uk<br/>
+            Laboratoire J.A. Dieudonné<br/>
+            Université Côte d'Azur<br/>
+            Parc Valrose 06108 NICE CEDEX 2<br/>
+            France<br/>
+            Email: ryan [dot] campbell [at] unice [dot] fr<br/>
         </div>
 
         <div class="span2">
