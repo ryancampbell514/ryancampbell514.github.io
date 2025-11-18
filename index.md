@@ -24,7 +24,7 @@ When I'm not working, you can find me running somewhere in the Alpes-Maritimes.
             Université Côte d'Azur<br/>
             Parc Valrose, 28 Avenue Valrose, 06000 Nice<br/>
             France<br/>
-            Email: ryan [dot] campbell [at] unice [dot] fr<br/>
+            Email: ryan [dot] campbell [at] univ-cotedazur [dot] fr<br/>
         </div>
 
         <div class="span2">
