@@ -22,7 +22,7 @@ When I'm not working, you can find me running somewhere in the Alpes-Maritimes.
             Ryan Campbell<br/>
             Laboratoire J.A. Dieudonné<br/>
             Université Côte d'Azur<br/>
-            Parc Valrose, 28 Avenue Valrose 06108, 06000 Nice Cedex 02<br/>
+            Parc Valrose, 28 Avenue Valrose, 06000 Nice<br/>
             France<br/>
             Email: ryan [dot] campbell [at] unice [dot] fr<br/>
         </div>
