@@ -38,7 +38,6 @@ When I'm not working, you can find me running somewhere in the Alpes-Maritimes.
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/academiccv.pdf" target="_blank">CV</a></li>
           <li><a href="https://scholar.google.com/citations?user=xI10ohkAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
           <li><a href="https://github.com/ryancampbell514" target="_blank">GitHub</a></li>
       </ul>
