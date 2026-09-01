@@ -8,7 +8,7 @@ description: Ryan Campbell's research
 
 **Research Interests:** Multivariate and spatio-temporal extreme value theory, dependence modelling, applications to real world data.
 
-*Above GIF: An example of domain-scaling on a stationary Gaussian random field.*
+*Above GIF: An example of domain-scaling on a stationary Gaussian random field as the value at location (0,0) becomes extreme.*
 
 *Below GIF: Piecewise-linear limit set fitted on a three-dimensional air pollution dataset.*
 
