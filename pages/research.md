@@ -14,7 +14,7 @@ description: Ryan Campbell's research
 
 **Updates:**
 
-+ **December 2025:** Contributed to a manuscript outlining one of the Lancaster University team's methodology for the [2025 EVA Data Challenge](https://eva2025.unc.edu/data-challenge/){:target="_blank"}. Preprint forthcoming.
++ **December 2025:** Contributed to a manuscript outlining one of the Lancaster University team's methodology for the [2025 EVA Data Challenge](https://eva2025.unc.edu/data-challenge/){:target="_blank"}. Link to preprint [here](https://arxiv.org/abs/2603.18149){:target="_blank"}. **September 2026 update:** Accepted to Extremes.
 + **October 2025:** Began a postdoc at [Laboratoire Jean Alexandre Dieudonné](https://math.univ-cotedazur.fr/){:target="_blank"}, [Université Côte d'Azur](https://univ-cotedazur.fr/){:target="_blank"}.
 + **September 2025:** Successfully defended my PhD thesis, "A Geometric Interpretation of Multivariate Extreme Value Analysis". PDF copy available [here](https://eprints.lancs.ac.uk/id/eprint/233277/){:target="_blank"}.
 + **December 2024:** Submitted a manuscript entitled *Piecewise-linear modeling of multivariate geometric extremes* to an academic journal, where a flexible piecewise-linear approach is introduced to estimate limit sets for multivqariate extremal inference. Link to preprint [here](https://arxiv.org/abs/2412.05195){:target="_blank"}. Slides presented at EVA 2025 <a href="{{ BASE_PATH }}/assets/Campbell_EVA_backup.pdf" target="_blank">here</a>. **October 2026 update:** Accepted to Electronic Journal of Statistics.
